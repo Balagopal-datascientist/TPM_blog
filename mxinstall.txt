@@ -1,0 +1,3 @@
+conda create -n mxenv python=3.7
+conda activate mxenv
+pip install mxnet matplotlib IPython
